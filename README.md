@@ -9,4 +9,3 @@ I am sdfii. Here are a few things about me:
 - 🤔 I’m looking for help with advanced algorithms and data structures.
 - 💬 Ask me about Python, AI, and software development best practices.
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I love hiking and have climbed 5 of the 7 summits!
